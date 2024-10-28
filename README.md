@@ -22,5 +22,5 @@ To get started with the Coffee Shop Sales Dashboard, follow these steps:
 
 1. Clone the repository:
    ```bash
-  (https://github.com/Manmohan-Choudhary/Coffee_Shop_Sales_Dashboard.git)
+https://github.com/Manmohan-Choudhary/Coffee_Shop_Sales_Dashboard.git
    
