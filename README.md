@@ -21,5 +21,6 @@ The Coffee Shop Sales Dashboard is a comprehensive tool that allows users to tra
 To get started with the Coffee Shop Sales Dashboard, follow these steps:
 
 1. Clone the repository:
-   ```bash https://github.com/Manmohan-Choudhary/Coffee_Shop_Sales_Dashboard.git
+   ```bash
+   https://github.com/Manmohan-Choudhary/Coffee_Shop_Sales_Dashboard.git
    
